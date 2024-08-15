@@ -1,0 +1,1 @@
+"Developed a utility tool for reading and processing data from Excel files, aimed at automating data analysis tasks. This tool reads sales data from a file and allows users to apply filters, displaying only the desired filtered data on screen."
